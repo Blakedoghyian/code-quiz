@@ -32,7 +32,9 @@ https://github.com/Blakedoghyian/code-quiz
 ## Screenshot
 
 
+![Screenshot (14)](https://user-images.githubusercontent.com/91994720/141717287-a4a6e9ea-4569-4292-887c-6ec5a3b4831e.png)
 
 
+![Screenshot (15)](https://user-images.githubusercontent.com/91994720/141717304-b50dae8f-4be2-4c07-a2bf-31b390d6e0aa.png)
 
 
